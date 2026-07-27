@@ -1,4 +1,6 @@
-package Objectlock_Classlock;
+package Thread;
+
+// package Objectlock_Classlock;
 
 class Resource{
 	void printNumbers() {
