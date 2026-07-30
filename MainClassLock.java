@@ -1,4 +1,4 @@
-package Objectlock_Classlock;
+package Thread;
 
 class resource{
 	static void printAlpha() {
